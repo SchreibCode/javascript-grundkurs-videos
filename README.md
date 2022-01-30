@@ -2,9 +2,13 @@
 
 # Thema
 
-- In diesem Repository findest du den Code zum Video: "Videotitel".
-- Falls du das Video noch nicht gesehen hast kannst du es hier: 
-[Link zum Video](https://www.youtube.com) anschauen.
+- In diesem Repository findest du den Code zur Videoreihe: "Videotitel".
+- Falls du die Videos noch nicht gesehen hast kannst du sie hier: 
+[Link zur Playlist](https://www.youtube.com) anschauen.
+
+## Wie ist das repository strukturiert?
+- Für jedes Video der Reihe gibt es einen Ordner. Zum Beispiel: 01-hello-world
+- In dem Ordner findest du eine index.html, die JavaScript Datei zum live coding und die Aufgabe der Lektion. 
 
 ## Wie kriege ich den Code?
 
