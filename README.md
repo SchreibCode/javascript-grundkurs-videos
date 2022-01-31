@@ -1,10 +1,10 @@
-<img src="https://github.com/SchreibCode/<repository-name>/blob/main/img/<img-name>" width="450" alt="Youtube Thumbnail"/>
+<img src="https://github.com/SchreibCode/javascript-grundkurs-videos/blob/main/img/javascript-grundkurs-01.jpg" width="450" alt="Youtube Thumbnail"/>
 
 # JavaScript Grundkurs
 
 -   In diesem Repository findest du den Code zur Videoreihe: "JavaScript Grundkurs".
 -   Falls du die Videos noch nicht gesehen hast kannst du sie hier:
-    [Link zur Playlist](https://www.youtube.com) anschauen.
+    [Link zur Playlist](https://youtube.com/playlist?list=PL8BTCXcyT1WpsZQ2UVI1ULG3RumOqU_Mw) anschauen.
 
 ## Wie ist das repository strukturiert?
 
