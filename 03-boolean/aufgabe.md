@@ -39,4 +39,5 @@ console.log(enthaltenBuchstabeE);
 
 // 8
 console.log(automarke.indexOf("e") === automarke2.length);
+
 ```
