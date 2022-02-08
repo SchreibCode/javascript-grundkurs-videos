@@ -9,42 +9,42 @@ const booleanTrue = true;
 console.log({ booleanTrue });
 
 /*
- * Andere Variablentypen lassen sich durch Vergleiche in Booleans verwandeln
+ * Andere Variablentypen lassen sich durch Vergleiche in einen Boolean verwandeln
  */
 
-const dreiGleichVier = 3 === 4;
-console.log({ dreiGleichVier });
+const istDreiGleichVier = 3 === 4;
+console.log({ istDreiGleichVier });
 
-const dreiKleinerVier = 3 < 4;
-console.log({ dreiKleinerVier });
+const istDreiKleinerVier = 3 < 4;
+console.log({ istDreiKleinerVier });
 
-const dreiGrößerGleichVier = 3 >= 4;
-console.log({ dreiGrößerGleichVier });
+const istDreiGrößerGleichVier = 3 >= 4;
+console.log({ istDreiGrößerGleichVier });
 
 const apfel = "Apfel";
 const banane = "Banane";
-const apfelGleichBanane = apfel === banane;
-console.log({ apfelGleichBanane });
+const istApfelGleichBanane = apfel === banane;
+console.log({ istApfelGleichBanane });
 
-const apfelNichtGleichBanane = apfel !== banane;
-console.log({ apfelNichtGleichBanane });
+const istApfelNichtGleichBanane = apfel !== banane;
+console.log({ istApfelNichtGleichBanane });
 
 const apfel2 = "Apfel";
-const apfelGleichApfel2 = apfel === apfel2;
-console.log({ apfelGleichApfel2 });
+const istApfelGleichApfel2 = apfel === apfel2;
+console.log({ istApfelGleichApfel2 });
 
-const laengeApfelGleichFuenf = apfel.length === 5;
-console.log({ laengeApfelGleichFuenf });
+const istLaengeApfelGleichFuenf = apfel.length === 5;
+console.log({ istLaengeApfelGleichFuenf });
 
 /*
  * Mit dem logischen UND (&&) und dem logischen ODER (||) Operator kann man noch mehr Variation schaffen
  */
 
 const pfirsich = "Pfirsich";
-const apfelGleichApfel2UndBananeGleichPfirsich =
+const istApfelGleichApfel2UndBananeGleichPfirsich =
     apfel === apfel2 && banane === pfirsich;
-console.log({ apfelGleichApfel2UndBananeGleichPfirsich });
+console.log({ istApfelGleichApfel2UndBananeGleichPfirsich });
 
-const apfelGleichApfel2OderBananeGleichPfirsich =
+const istApfelGleichApfel2OderBananeGleichPfirsich =
     apfel === apfel2 || banane === pfirsich;
-console.log({ apfelGleichApfel2OderBananeGleichPfirsich });
+console.log({ istApfelGleichApfel2OderBananeGleichPfirsich });

@@ -23,7 +23,7 @@ const istCool = automarke === "Porsche" && ps > 500;
 console.log(istCool);
 
 // 4
-console.log(automarke.length === automarke2.length);
+console.log(automarke.length !== automarke2.length);
 
 // 5
 const darfFahren = johannesAlter >= 18 || führerScheinAb17Moeglich;
