@@ -1,4 +1,4 @@
-<img src="https://github.com/SchreibCode/javascript-grundkurs-videos/blob/main/img/javascript-grundkurs-01.jpg" width="450" alt="Youtube Thumbnail"/>
+<img src="https://github.com/SchreibCode/javascript-grundkurs-videos/blob/main/img/javascript-grundkurs-1.jpg" width="450" alt="Youtube Thumbnail"/>
 
 # JavaScript Grundkurs
 
