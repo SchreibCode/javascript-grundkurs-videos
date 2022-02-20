@@ -8,7 +8,7 @@
 if (true) console.log(`true ist truthy`); // was auch sonst ;)
 if (1) console.log(`1 ist truthy`);
 if (42) console.log(`42 ist truthy`);
-if ("hallo") console.log(`strings mit Inhalt sind truthy`);
+if ("hallo du da") console.log(`strings mit Inhalt sind truthy`);
 if ({}) console.log("Objekte sind truthy");
 if ([]) console.log("Arrays sind truthy");
 

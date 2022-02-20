@@ -16,6 +16,28 @@ if (10 > 4) {
 }
 
 /*
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ */
+
+/*
  * Der Code im else statement wird ausgeführt
  * wenn die Bedingung im if statement false ist
  */
@@ -27,11 +49,33 @@ if ("Apfel" === "Banane") {
 }
 
 /*
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ */
+
+/*
  * Hinter einem else statement kann ein weiteres if statement folgen
  * Den Ablauf kann man theoretisch ewig so fortsetzen...
  */
 
-const zahl = 3;
+const zahl = 100;
 
 if (zahl >= 1 && zahl <= 10) {
     console.log(`Zahl ist zwischen 1 und 10`);
@@ -40,6 +84,28 @@ if (zahl >= 1 && zahl <= 10) {
 } else {
     console.log(`Zahl ist nicht zwischen 1 und 20`);
 }
+
+/*
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 /*
  * Besteht der Code in einem if statment aus nur einer Zeile
