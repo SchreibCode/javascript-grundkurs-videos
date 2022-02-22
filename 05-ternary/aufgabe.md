@@ -1,0 +1,6 @@
+# Automatische Begrüßung
+
+## Aufgabenstellung
+
+
+
