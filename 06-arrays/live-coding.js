@@ -5,9 +5,14 @@
  * So sieht ein Array aus: [waggon, waggon, waggon, ...];
  */
 
-console.log(["Hallo", 23, false]);
+//console.log(["Hallo", 23, false]);
 
 /*
+ *
+ *
+ *
+ *
+ *
  *
  *
  *
@@ -27,10 +32,15 @@ console.log(["Hallo", 23, false]);
  * Deshalb kann man Arrays genauso in Variablen ablegen wie Strings, Numbers und Booleans
  */
 
-// const automarken = ["Porsche", "Mercedes", "Audi", "Tesla"];
-// console.log(automarken);
+const automarken = ["Porsche", "Mercedes", "Audi", "Tesla"];
+//console.log(automarken);
 
 /*
+ *
+ *
+ *
+ *
+ *
  *
  *
  *
@@ -54,8 +64,15 @@ console.log(["Hallo", 23, false]);
  * shift löscht das erste Element
  */
 
-// let fruechte = ["Banane", "Apfel", "Birne"];
-// console.log(fruechte);
+let fruechte = ["Banane", "Apfel", "Birne"];
+
+fruechte.push("Melone");
+fruechte.unshift("Heidelbeere");
+
+fruechte.pop();
+fruechte.shift();
+
+//console.log(fruechte);
 
 /*
  *
@@ -73,13 +90,20 @@ console.log(["Hallo", 23, false]);
  *
  *
  *
+ *
+ *
+ *
+ *
  * Jetz zum Schwierigsten Teil des Videos
- * Das erste Element eines Arrays hat die Position 0 
+ * Das erste Element eines Arrays hat die Position 0
  * Das letzte Element hat die Position Länge-1
- * 
+ *
+ * Wie erhält man die Länge eines Array?
  * Wie ruft man Elemente aus dem Array auf?
  */
 
-const länder = ["Frankreich", "Mexiko", "Südafrika", "Irland"];
-const längeLänderArray = länder.length;
-console.log(längeLänderArray);
+const länder = ["Frankreich", "Mexiko", "Südafrika", "Irland", "Deutschland"];
+
+console.log(länder.length);
+console.log(länder[0]);
+console.log(länder[länder.length - 1]);
