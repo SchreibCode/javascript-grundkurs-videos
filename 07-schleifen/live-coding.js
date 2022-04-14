@@ -1,7 +1,7 @@
 /*
  * Mit JavaScript Schleifen wie while oder for kann man Code wiederholen ohne ihn selbst mehrmals zu schreiben.
  * Dank Schleifen können wir uns an die wichtige Regel "Wiederhole dich nicht!" halten.
- * "Wiederhole dich nicht!" oder Englisch "Don´t repeat yourself" bedeutet, dass man den selben Code nicht mehrmals schreiben sollte.
+ * "Wiederhole dich nicht!" oder Englisch "Don´t repeat yourself!" bedeutet, dass man den selben Code nicht mehrmals schreiben sollte.
  */
 
 console.log("Hallo");

@@ -2,10 +2,10 @@
 
 ## Aufgabenstellung
 
-Schreibe Code der auf der Konsole die Zahlen von 1 bis 30 durchgeht.<br>
+Schreibe Code welcher auf der Konsole die Zahlen 1 bis 30 durchgeht.<br>
 Für jede Zahl die ohne Rest durch drei teilbar ist drucke `Fizz` aus.<br>
 Für jede Zahl die ohne Rest durch fünf teilbar ist drucke `Buzz` aus.<br>
-Und für jede Zahl die ohne Rest durch drei und fünf teilbar ist drucke `FizzBuzz` aus.
+Für jede Zahl die ohne Rest durch drei und fünf teilbar ist drucke `FizzBuzz` aus.
 
 ## Hilfestellung
 
