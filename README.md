@@ -1,6 +1,6 @@
 <img src="https://github.com/SchreibCode/javascript-grundkurs-videos/blob/main/img/javascript-grundkurs-1.jpg" width="450" alt="Youtube Thumbnail"/>
 
-# JavaScript Grundkurs
+# JavaScript Tutorials für Anfänger
 
 -   In diesem Repository findest du den Code zur Videoreihe: "JavaScript Tutorials für Anfänger".
 -   Falls du die Videos noch nicht gesehen hast kannst du sie hier:
