@@ -2,14 +2,14 @@
 
 # JavaScript Grundkurs
 
--   In diesem Repository findest du den Code zur Videoreihe: "JavaScript Grundkurs".
+-   In diesem Repository findest du den Code zur Videoreihe: "JavaScript Tutorials für Anfänger".
 -   Falls du die Videos noch nicht gesehen hast kannst du sie hier:
     [Link zur Playlist](https://youtube.com/playlist?list=PL8BTCXcyT1WpsZQ2UVI1ULG3RumOqU_Mw) anschauen.
 
 ## Wie ist das repository strukturiert?
 
 -   Für jedes Video der Reihe gibt es einen Ordner. Zum Beispiel: 01-hello-world
--   In dem Ordner findest du eine index.html, die JavaScript Datei zum live coding und die Aufgabe der Lektion.
+-   In dem Ordner findest du eine index.html, die JavaScript Datei zum live-coding und eine Markdown Datei mit der Aufgabe aus dem Video.
 
 ## Wie kriege ich den Code?
 
