@@ -5,11 +5,15 @@ function getHHMMSS() {
     return `${now.getHours()}:${now.getMinutes()}:${now.getSeconds()}`;
 }
 
+console.log(getHHMMSS());
+
 // 2
 
 function getSizeOfRectangle(length, width) {
     return length * width;
 }
+
+console.log(getSizeOfRectangle(10, 5));
 
 // 3
 
@@ -18,3 +22,5 @@ function countTo(number) {
         console.log(i);
     }
 }
+
+countTo(10);
