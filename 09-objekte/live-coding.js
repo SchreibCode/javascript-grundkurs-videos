@@ -12,6 +12,15 @@ const gewichtPorsche911Turbo = 1640; // kg
 const zylinderPorsche911Turbo = 6; // Stück
 const kraftstoffPorsche911Turbo = "Super Plus";
 const preisPorsche911Turbo = 194650; // €
+const modellReihenPorsche911Turbo = [
+    "911",
+    "964",
+    "993",
+    "996",
+    "997",
+    "991",
+    "992",
+];
 function printInfoPorsche911Turbo() {
     console.log(
         `Der ${markePorsche911Turbo} ${modellPorsche911Turbo} hat ${leistungPorsche911Turbo} PS`
@@ -35,6 +44,7 @@ const porsche911Turbo = {
     zylinder: 6, // Stück
     kraftstoff: "Super Plus",
     preis: 194650, // €
+    modellReihen: ["911", "964", "993", "996", "997", "991", "992"],
     printInfo: function () {
         console.log(`Der ${this.marke} ${this.modell} hat ${this.leistung} PS`);
     },
