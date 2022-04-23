@@ -12,10 +12,13 @@ const gewichtPorsche911Turbo = 1640; // kg
 const zylinderPorsche911Turbo = 6; // Stück
 const kraftstoffPorsche911Turbo = "Super Plus";
 const preisPorsche911Turbo = 194650; // €
+function printInfoPorsche911Turbo() {
+    console.log(
+        `Der ${markePorsche911Turbo} ${modellPorsche911Turbo} hat ${leistungPorsche911Turbo} PS`
+    );
+}
 
-console.log(
-    `Der ${markePorsche911Turbo} ${modellPorsche911Turbo} hat ${leistungPorsche911Turbo} PS`
-);
+printInfoPorsche911Turbo();
 
 // Porsche 911 Turbo - mit Objekt
 
@@ -32,8 +35,9 @@ const porsche911Turbo = {
     zylinder: 6, // Stück
     kraftstoff: "Super Plus",
     preis: 194650, // €
+    printInfo: function () {
+        console.log(`Der ${this.marke} ${this.modell} hat ${this.leistung} PS`);
+    },
 };
 
-console.log(
-    `Der ${porsche911Turbo.marke} ${porsche911Turbo.modell} hat ${porsche911Turbo.leistung} PS`
-);
+porsche911Turbo.printInfo();
