@@ -2,6 +2,7 @@
 
 const markePorsche911Turbo = "Porsche";
 const modellPorsche911Turbo = "911 Turbo";
+const kofferaumVornePorsche911Turbo = true;
 const laengePorsche911Turbo = 4535; // mm
 const breitePorsche911Turbo = 1900; // mm
 const hoehePorsche911Turbo = 1303; // mm
@@ -34,6 +35,7 @@ printInfoPorsche911Turbo();
 const porsche911Turbo = {
     marke: "Porsche",
     modell: "911 Turbo",
+    kofferaumVorne: true,
     laenge: 4535, // mm
     breite: 1900, // mm
     hoehe: 1303, // mm

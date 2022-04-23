@@ -3,6 +3,7 @@
 const porsche911Turbo = {
     marke: "Porsche",
     modell: "911 Turbo",
+    kofferaumVorne: true,
     laenge: 4535, // mm
     breite: 1900, // mm
     hoehe: 1303, // mm
@@ -21,6 +22,7 @@ const porsche911Turbo = {
 const porsche911Turbo = {
     marke: "Porsche",
     modell: "911 Turbo",
+    kofferaumVorne: true,
     laenge: 4535, // mm
     breite: 1900, // mm
     hoehe: 1303, // mm
