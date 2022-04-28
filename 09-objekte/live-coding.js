@@ -22,7 +22,7 @@ function printInfoPorsche911Turbo() {
 
 printInfoPorsche911Turbo();
 
-// Porsche 911 Turbo - mit Objekt
+// Porsche 911 mit Objekt
 
 const porsche911Turbo = {
     marke: "Porsche",
@@ -36,4 +36,16 @@ const porsche911Turbo = {
     },
 };
 
-porsche911Turbo.printInfo();
+const fiatFiesta = {
+    marke: "Fiat",
+    modell: "Fiesta",
+    kofferaumVorne: true,
+    leistung: 580, // PS
+    preis: 194650, // €
+    modellReihen: ["911", "964", "993", "996", "997", "991", "992"],
+    printInfo: function () {
+        console.log(`Der ${this.marke} ${this.modell} hat ${this.leistung} PS`);
+    },
+};
+
+fiatFiesta.printInfo();
