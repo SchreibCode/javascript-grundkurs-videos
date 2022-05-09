@@ -15,4 +15,4 @@ console.log(heutigerTag);
 const alterBeiDerGeburt = 0;
 console.log(alterBeiDerGeburt);
 
-//alterBeiDerGeburt = 2;
+// alterBeiDerGeburt = 2;

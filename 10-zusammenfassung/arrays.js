@@ -1,7 +1,5 @@
 /* Arrays */
 
-console.log(["erstes Element", "zweites Element", "drittes Element", "usw..."]);
-
 const einBeispiel = ["Alle meine Entchen...", 33, false];
 console.log(einBeispiel);
 

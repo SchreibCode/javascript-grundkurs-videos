@@ -5,9 +5,11 @@ const haus = {
     quadratmeter: 120,
     anzahlFenster: 12,
     preis: 350000,
-    // druckInfo: function () {
-    //     console.log("Das Haus steht in " + this.stadt);
-    // },
+    druckInfo: function () {
+        console.log("Das Haus steht in " + this.stadt);
+    },
 };
 
-//haus.druckInfo();
+console.log(haus.stadt);
+
+haus.druckInfo();

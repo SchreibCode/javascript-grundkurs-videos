@@ -1,7 +1,7 @@
 /* Booleans */
 
-const istJavaScriptCool = true;
-const hatEinMensch12Finger = false;
+const istJavaScriptCool = true; // wahr
+const hatEinMensch12Finger = false; // falsch
 
 /* Vergleichsoperatoren */
 

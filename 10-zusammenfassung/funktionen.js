@@ -5,14 +5,17 @@ const y = 10; // Zweite Answeisung
 const xPlusY = x + y; // Dritte Anweisung
 console.log(xPlusY); // Vierte Anweisung
 
-function funktionsName() {
+function funktionsName(parameter) {
     const test = "Test";
-    console.log("Hallo aus der Funktion", test);
+    return test;
+    console.log("Hallo aus der Funktion", parameter);
 }
 
 const xMal7 = x * 7;
 console.log(xMal7);
 
-//funktionsName();
+funktionsName("Heyyyy!!!");
 
 console.log("Good bye");
+
+console.log(funktionsName());
